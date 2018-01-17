@@ -2,7 +2,13 @@
 
 ## Usage
 
-First add the config as a dev dependency to your project:
+First install `eslint` as a dev dependency for your project:
+
+```bash
+$ npm install --save-dev eslint
+```
+
+Then add the config as a dev dependency to your project:
 
 ```bash
 $ npm install --save-dev lighthouse-labs/eslint-config-lighthouselabs
